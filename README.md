@@ -1,2 +1,2 @@
-# Weight in another Planet
-I'm going to calculate your weight on another planet. I only need you to tell me your weight on this planet and the planet you want to know your weight.
+# Peso en otro Planeta
+Voy a calcular tu peso en otro planeta. Sólo necesito que me digas tu peso en este planeta y el planeta en el que quieres saber tu peso.
